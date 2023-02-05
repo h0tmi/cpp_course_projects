@@ -1,4 +1,4 @@
-# cpp_course_projects
+# Сpp course projects
 This repository consists of some projects that I've done in the university.
 
 This course was taught in the first year of study at the HSE.
